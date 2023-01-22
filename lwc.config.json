@@ -1,0 +1,10 @@
+{
+    "modules": [
+        {
+			"dir": "src/client/lwc"
+		},
+        {
+            "npm": "@lwce/router"
+        }
+    ]
+}
