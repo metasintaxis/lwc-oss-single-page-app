@@ -5,6 +5,6 @@ export default class Profile extends LightningElement {
     @wire(history) history;
 
     goToTeam() {
-        this.history.push('/settings/team');
+        this.history.push('/app/settings/team');
     }
 }
